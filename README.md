@@ -1,2 +1,2 @@
-# KPC
-KPC is an x86 PC emulator on smartphone
+# KoudaiPC
+KoudaiPC is an x86 PC emulator on smartphone
